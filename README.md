@@ -13,7 +13,7 @@ You are designing a spacecraft that will use gallium arsenide solar cells for po
 - Nominal mission duration: 5 years
 - Life degradation per year: 2.75%
 - Limit on battery's depth of charge: 20%
-- One battery on the spacecraft
+- One battery on the spacecraft.
 - Battery average discharge voltage: 27.1 V
 - Transmission efficiency between the battery and the load: 90%
 
