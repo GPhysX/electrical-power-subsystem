@@ -23,7 +23,7 @@ If some data are not given, use the tables or make some hypothesis.
 2. What is the beginning-of-life power per unit area of the solar array? Assume worst-case Sun angle and nominal inherent degradation.
 3. What is the end-of-life power per unit area of the solar array?
 4. What is the required area of the solar arrays?
-5. What is the required capacity of the secondary batteries of the spacecraft (in W hr and A hr?
+5. What is the required capacity of the secondary batteries of the spacecraft (in W hr and A hr)?
 6. What is the mass of the batteries if they are Ni-H2? What is the mass of the batteries if we are using Li-Ion? What is the mass of the batteries if they are Ni-Cd?
 7. Why are the majority of the spacecraft power systems direct-current (dc) vice alternating-current (ac)?
 
