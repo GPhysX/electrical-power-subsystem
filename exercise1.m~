@@ -29,26 +29,15 @@ A = p_max / (S * n * Fs * Fc * cos(phi_s));
 % 6. Battery Mass %
 %-----------------%
 % Battery is needed during eclipse.
-% Power required in eclipse.
+% Power required in eclipse:
 Pe = 100; % Watt
 
-% Time in eclipse is 22 minutes.
-t_eclipse = 22 / 60; % hours.
-
-% Depth of charge.
-dod = 0.20; % percent.
-
 % Energy Yields for Ni-H2, Li-Ion, and Ni-Cd.
-u_nih2 = 60; % Wh/kg
-u_liion = 120; % Wh/kg
-u_nicd = 40; % Wh/kg
+u_nih2
+u_liion
+u_nicd
 
-% Calculate battery masses in kg.
 % Ni-H2
-m_nih2 = (Pe * t_eclipse) / (u_nih2 * dod)
-
-% Li-Ion
-m_liion = (Pe * t_eclipse) / (u_liion * dod)
+% Li-Ion 
 
 % Ni-Cd
-m_nicd = (Pe * t_eclipse) / (u_nicd * dod)
